@@ -1,0 +1,5 @@
+{
+    "dart.flutterSdkPath": "/Users/webvedant/Documents/Flutter/sdk/flutter_3_3_4",
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "dart.lineLength": 140,
+}

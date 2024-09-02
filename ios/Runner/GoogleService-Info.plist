@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>304618395292-jok532o5b7g9la79mspgv0t47c2d70is.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.304618395292-jok532o5b7g9la79mspgv0t47c2d70is</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIFyF1O4TDscS7Kj_ZPn_cRNGa1uG4G6Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304618395292</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zooZimba</string>
+	<key>PROJECT_ID</key>
+	<string>zoo-zimba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zoo-zimba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304618395292:ios:ca9158abf6ed64a952bf59</string>
+</dict>
+</plist>
