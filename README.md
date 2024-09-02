@@ -1,16 +1,8 @@
-# zoo_zimba
+# zoo_roulette
 
-A new Flutter project.
+Flutter game using GetX.
 
-## Getting Started
+Zoo roulette game is multi user, realtime playable game developed using GetX Flutter, contact me if you want any help regarding this code.
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/4394b230-ae9f-481b-a8ce-0c59a31a7ab3
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
