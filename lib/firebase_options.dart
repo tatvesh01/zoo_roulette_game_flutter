@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAIFyF1O4TDscS7Kj_ZPn_cRNGa1uG4G6Q',
+    apiKey: '', //key here
     appId: '1:304618395292:ios:ca9158abf6ed64a952bf59',
     messagingSenderId: '304618395292',
     projectId: 'zoo-zimba',
